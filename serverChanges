@@ -1,0 +1,5 @@
+
+# Changes made for Heroku
+created scripts for start in package.json
+create engines in package.json
+declared Port to check for environment variable PORT
