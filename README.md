@@ -1,7 +1,8 @@
-email-Subscribers
+Project-Sender
+
 Overview
 
-email-Subscribers is a large feedback-collection application, features including everything from authentication to email handling. This app will mass send emails to a big list of users for the purpose of collecting feedback.
+Project-Sender is a large feedback-collection application, features including everything from authentication to email handling. This app will mass send emails to a big list of users for the purpose of collecting feedback.
 
 Description
 
