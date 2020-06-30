@@ -3,7 +3,6 @@ Overview
 
 email-Subscribers is a large feedback-collection application, features including everything from authentication to email handling. This app will mass send emails to a big list of users for the purpose of collecting feedback.
 
-This application was built step-by-step as a part of the udemy course.
 Description
 
 Some features included as part of this application:
