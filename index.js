@@ -9,7 +9,7 @@ require('./services/passport'); // passport handles saving..
 require('./models/survey');
 require('./models/Recipient');
 
-mongoose.connect(keys.mongoURI,{useNewUrlParser: true});
+mongoose.connect(keys.mongoURI,{useNewUrlParser: true, useUnifiedTopology: true});
 
 const app = express();
 
