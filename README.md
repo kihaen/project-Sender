@@ -17,3 +17,7 @@ Currently the live version with use your google account to register you an accou
 Once you register, you can add credits to the debug mode stripe processing by : 
 using any email or name. valid future expiration date, and filling the card number repeatedly with : 424242...
 once you have the credits, the recipients added must be seperated by a comma if there is more than one.
+
+----------------------
+
+Currently the live version is running the bare minimum UI
