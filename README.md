@@ -13,7 +13,7 @@ Built from Create-React-App the front end of this application is connected to a 
 --------------------
 
 How to use : 
-Currently the live version with use your google account to register you an account. 
+Currently the live version with use your google account to register you an account. \n
 Once you register, you can add credits to the debug mode stripe processing by : 
 using any email or name. valid future expiration date, and filling the card number repeatedly with : 424242...
 once you have the credits, the recipients added must be seperated by a comma if there is more than one.
